@@ -1,0 +1,91 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+.maw{
+	height: 1000px;
+	width: 100%;
+	background-image:url("https://www.seapearlcoxsbazar.com/images/rt003.jpg");
+}
+ul li{
+	background-color: #1A8399;
+	text-decoration: none;
+	padding: 15px 15px;
+	float: left;
+	display: inline;
+	border-left: 3px solid gray;
+	position: center;
+	
+
+}
+ul li:hover{
+	background-color: gray;
+}
+.last{
+	background-color: #50B8C2;
+}
+.title{
+	color: white;
+	font-size: 1.5rem;
+	text-align: center;
+}
+.card{
+	width: 300px;
+	box-sizing: border-box;
+	margin: 60px;
+	box-shadow: 2px 2px 2px 4px black;
+
+}
+.card-body{
+	
+}
+.image1{
+	width: 100%;
+}
+.hra{
+	background-color: 2px solid black;
+}
+
+.des{
+	font-size: 1rem;
+	text-align: justify;
+	
+	font-weight: 100%;
+}
+.card :hover{
+	background-color: skyblue;
+	
+}
+.containers{
+	box-sizing: border-box;
+	display: flex;
+
+}
+
+.des:hover{
+	background-color: gray;
+
+}
+.containers:hover{
+	background-color: gray;
+}
+.sec{
+background-color: skyblue;
+text-align: center;
+height: 150px;
+}
+.sec a{
+text-decoration: none;
+
+}
+.manubar ul li{
+ 
+  text-align: center;
+}
+.pa{
+	text-align: center;
+	text-align: justify;
+	color: coral;
+	font-size: 1.2rem;
+}
